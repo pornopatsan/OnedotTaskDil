@@ -11,6 +11,7 @@ pip install -r requirements.txt
 
 Install offline language translation model
 ```bash
+mkdir -p lib
 wget "https://argosopentech.nyc3.digitaloceanspaces.com/argospm/translate-de_en-1_0.argosmodel" -O "lib/translate-de_en-1_0.argosmodel"
 ```
 
@@ -51,3 +52,6 @@ In that cases, right way is to store that file somewhere and join this it into s
 - The same with vehicle type. I put car everywhere just to make it not nullable, but actually it looked like there are soome trucks. Anyway, I do not now what exactly could be written there except car.
 - This language model does not work great with for example Body Types of vehicles or Conditions. Neither do Google traslate, so I decided not to hardcode translations, since I am not sure in those, and it is not the best practive.
 - I did not try to make real pipeline using pipleline launching systems. Just made simple python script, which may be integrated with just a bit changes to some popular systems.
+
+
+**Miro board with data flow chart**: https://miro.com/app/board/uXjVOEthpeg=/?invite_link_id=819325880273
