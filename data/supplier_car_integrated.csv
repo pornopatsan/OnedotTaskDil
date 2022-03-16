@@ -1,0 +1,1154 @@
+carType,color,condition,currency,drive,city,country,make,manufacture_year,mileage,mileage_unit,model,model_variant,price_on_request,type,zip,manufacture_month,fuel_consumption_unit
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,31900,kilometer,E 320, Elégance 4-Matic,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Lamborghini,1973,48000,kilometer,null,Espada GT 400 Serie 3,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Datsun,1969,23300,kilometer,null,SPORTS 2000,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,1997,66300,kilometer,A8, 4.2 quattro,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2004,27600,kilometer,745,i,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,1992,123000,kilometer,911, Carrera 2 RS,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,53800,kilometer,E 55 AMG, Avantgarde,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Lamborghini,1993,14990,kilometer,DIABLO,Diablo 5.7 VT,true,car,null,8,null
+null,Silver,null,CHF,null,Sursee,CH,Mercedes-Benz,1960,1000,kilometer,null,300SL Roadster,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Alfa Romeo,2008,37000,kilometer,8C, Coupé,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Wiesmann,2008,34600,kilometer,COUPE,GT MF5,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,2009,52000,kilometer,911, Turbo Cabrio,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1969,9999,kilometer,Alpine A110, 1300S,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,Maserati,2002,62300,kilometer,COUPÉ GT,Coupé GT,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Chevrolet,2010,24000,kilometer,CORVETTE,Corvette Z06,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,79500,kilometer,CLK 55 AMG, Avantgarde,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2014,3600,kilometer,S7, Sportback 4.0 TFSI V8 quattro,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,52400,kilometer,E 55 AMG, Avantgarde,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2004,79100,kilometer,645,i,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2000,77000,kilometer,911, GT3,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,87800,kilometer,E 420, Avantgarde,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Aston Martin,2013,17000,kilometer,DB9, Volante,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2001,57500,kilometer,RS4, Avant quattro,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2001,49900,kilometer,911, GT2,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Toyota,1981,79300,kilometer,CELICA, 1600 GT DOHC,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1992,152000,kilometer,190, E 2.5-16 ABS,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2005,39400,kilometer,911, Carrera S,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2002,60100,kilometer,X5, 4.4i,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ford,1978,96600,kilometer,ESCORT, RS 2000,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2006,101200,kilometer,911, Carrera 4S,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Toyota,1982,5000,kilometer,LAND CRUISER, FJ 40,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,27600,kilometer,SL 500,,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2001,53400,kilometer,911, GT2,true,car,null,9,null
+null,Silver,null,CHF,null,Porrentruy,CH,Lamborghini,2003,9000,kilometer,MURCIÉLAGO,Murciélago 6.2 Coupé,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2003,26300,kilometer,A8, 4.2 quattro,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,1999,101800,kilometer,A8, 4.2 quattro,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1973,75700,kilometer,Alpine A110, 1300,true,car,null,0,null
+null,Silver,null,CHF,null,Zuzwil,CH,Maserati,2005,33500,kilometer,QUATTROPORTE,Quattroporte 4.2,true,car,null,10,null
+null,Other,null,CHF,null,Zuzwil,CH,Jaguar,1956,5300,kilometer,null,D-Type XKD525,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Chevrolet,1967,21300,kilometer,CORVETTE, C2,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Renault,1982,77900,kilometer,R5, 1400 Alpine Turbo,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Maserati,2002,95300,kilometer,COUPÉ GT,Coupé GT,true,car,null,7,null
+null,White,null,CHF,null,Zuzwil,CH,Aston Martin,2010,9000,kilometer,V8 Vantage, 4.7,true,car,null,7,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,148300,kilometer,ML 400, CDI,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2014,100,kilometer,RS6, Avant 4.0 TFSI V8 qu,true,car,null,4,null
+null,White,null,CHF,null,Zuzwil,CH,Triumph,1977,10800,kilometer,Dolomite, Sprint,true,car,null,6,null
+null,White,null,CHF,null,Zuzwil,CH,Porsche,2003,115000,kilometer,CAYENNE,Cayenne S,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Audi,2003,101300,kilometer,A8, 4.2 quattro,true,car,null,9,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,47500,kilometer,CLK 55 AMG, Avantgarde,true,car,null,11,null
+null,Blue,null,CHF,null,Zuzwil,CH,Maserati,2003,61400,kilometer,COUPÉ GT,Coupé GT,true,car,null,8,null
+null,White,null,CHF,null,Zuzwil,CH,BMW,2000,49700,kilometer,330,i,true,car,null,9,null
+null,White,null,CHF,null,Zuzwil,CH,Audi,1997,94700,kilometer,A8, 4.2 quattro,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Porsche,2011,14000,kilometer,911, Turbo S Cabrio,true,car,null,7,null
+null,White,null,CHF,null,Zuzwil,CH,McLaren,2012,23000,kilometer,12C,MP4- Coupé 3.8 V8,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Ferrari,2007,22000,kilometer,599, GTB,true,car,null,4,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,46000,kilometer,S 63 AMG, L,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2002,81000,kilometer,RS6, Avant quattro,true,car,null,10,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,62300,kilometer,S 500, 4Matic,true,car,null,11,null
+null,White,null,CHF,null,Zuzwil,CH,BMW,1998,85400,kilometer,740,i,true,car,null,4,null
+null,White,null,CHF,null,Zuzwil,CH,De Tomaso,1974,68100,kilometer,PANTERA,,true,car,null,9,null
+null,White,null,CHF,null,Zuzwil,CH,Porsche,2009,30300,kilometer,PANAMERA,Panamera Turbo 4.8,true,car,null,9,null
+null,White,null,CHF,null,Zuzwil,CH,Alfa Romeo,1970,106000,kilometer,SPIDER, 1300 Junior,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,VW,2003,37800,kilometer,PHAETON,Phaeton 6.0 W12 4Motion,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Bentley,2000,85700,kilometer,ARNAGE, Red Label,true,car,null,10,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,12200,kilometer,CL 600,,true,car,null,9,null
+null,White,null,CHF,null,Zuzwil,CH,Renault,1988,98600,kilometer,ALPINE,Alpine V6 Turbo,true,car,null,4,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2013,10400,kilometer,CLS 500,,true,car,null,5,null
+null,White,null,CHF,null,Zuzwil,CH,Porsche,2001,30100,kilometer,911, Turbo,true,car,null,10,null
+null,White,null,CHF,null,Zuzwil,CH,Ferrari,2003,39000,kilometer,575M,,true,car,null,4,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1991,197800,kilometer,SL 500,,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Peugeot,1984,58950,kilometer,205, Turbo 16V,true,car,null,11,null
+null,White,null,CHF,null,Zuzwil,CH,Jaguar,1996,25000,kilometer,XJ 220,,true,car,null,5,null
+null,White,null,CHF,null,Zuzwil,CH,Porsche,2012,1000,kilometer,CAYENNE,Cayenne S,true,car,null,6,null
+null,White,null,CHF,null,Zuzwil,CH,Rolls-Royce,2004,56000,kilometer,PHANTOM,Phantom 6.7 V12,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Bentley,2006,43000,kilometer,CONTINENTAL,Continental FlyingSpur6.0,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Renault,2004,145000,kilometer,ESPACE,Espace 2.0 T Privilège,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Jaguar,1999,103000,kilometer,XK,R S/C,true,car,null,11,null
+null,White,null,CHF,null,Safenwil,CH,MINI,1976,44300,kilometer,MINI,1000,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,20800,kilometer,ML 500,,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,70600,kilometer,SL 320,,true,car,null,2,null
+null,White,null,CHF,null,Zuzwil,CH,AGM,2004,1,kilometer,null,WLR,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,VW,2005,48300,kilometer,PHAETON,Phaeton 3.0 TDi V6 4M,true,car,null,6,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,102000,kilometer,S 65 AMG, L,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,99000,kilometer,A 150, Classic,true,car,null,10,null
+null,White,null,CHF,null,Zuzwil,CH,Audi,2004,55000,kilometer,RS6, Avant quattro,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2008,79700,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,32500,kilometer,null,CLK DTM AMG,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,2002,26500,kilometer,X5, 4.6is,true,car,null,11,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,14500,kilometer,SL 600,,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Bentley,1995,39100,kilometer,BROOKLANDS,Brooklands,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2008,114200,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,1998,26200,kilometer,728,i,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2003,64500,kilometer,RS6, Avant quattro,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,49900,kilometer,SL 600,,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2011,31400,kilometer,CLS 63 AMG,,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,1996,120200,kilometer,Cabriolet, 2.8 E,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Renault,1977,39267,kilometer,Alpine A110, A5 Motor,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1990,162000,kilometer,190, E 2.5-16 ABS,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,1974,7990,kilometer,2002, Turbo,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lamborghini,2009,7300,kilometer,GALLARDO,Gallardo LP550-2 Cpé V.B.,true,car,null,9,null
+null,Blue,null,CHF,null,Porrentruy,CH,Ferrari,2007,53500,kilometer,F430, Spider,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Land Rover,2007,99900,kilometer,RANGE ROVER,Range Rover 3.6 d HSE,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,116100,kilometer,CL 500,,true,car,null,12,null
+null,Blue,null,CHF,null,Zuzwil,CH,Maserati,2009,96000,kilometer,QUATTROPORTE,Quattroporte 4.7 S,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,2004,108500,kilometer,530,d Touring,true,car,null,11,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,2004,86200,kilometer,X3, 3.0i,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,26800,kilometer,E 420, Elégance,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,35000,kilometer,E 55 AMG, Avantgarde,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lotus,2002,36700,kilometer,ESPRIT,Esprit 3.5 V8 SE,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Subaru,2006,161500,kilometer,IMPREZA,Impreza 2.5T WRX,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Land Rover,2012,63200,kilometer,RANGE ROVER,Range Rover 4.4TD Vogue,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,48000,kilometer,S 500,,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Renault,1976,59800,kilometer,ALPINE, A310 1600 VG,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ferrari,2005,8000,kilometer,F360, Modena Berlinetta,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,75100,kilometer,CL 500,,true,car,null,9,null
+null,Blue,null,CHF,null,Zuzwil,CH,Volvo,2001,27900,kilometer,C70, T5,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2012,12100,kilometer,C 63 AMG, BLACK SERIES (Coupé),true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ferrari,1999,20700,kilometer,F360, Modena Berlinetta,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Other,1984,150200,kilometer,7 SERIES, B7 Turbo Coupé,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,2400,kilometer,SLR, McLaren Roadster,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,1985,47000,kilometer,924,,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Other,1999,146500,kilometer,3 SERIES, B8,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,32500,kilometer,SL 600,,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Mitsubishi,2003,35200,kilometer,LANCER,Lancer Evo VII,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,14100,kilometer,S 320,,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,47000,kilometer,SL 55 AMG,,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2014,450,kilometer,911, Turbo S Cabrio,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,99900,kilometer,S 500,,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2004,60000,kilometer,A8, 4.2 quattro,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,1999,30300,kilometer,F360, Modena Berlinetta,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,Bentley,1979,175100,kilometer,null,T 2,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,1999,171700,kilometer,A6, Avant 2.7 T q.Ambiente,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,2005,29300,kilometer,F430,,true,car,null,6,null
+null,Brown,null,CHF,null,Zuzwil,CH,Maserati,2008,80000,kilometer,QUATTROPORTE,Quattroporte 4.2 Sport GT,true,car,null,4,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Bentley,2006,35000,kilometer,CONTINENTAL,Continental FlyingSpur6.0,true,car,null,3,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Rolls-Royce,1987,19720,kilometer,CORNICHE, Cabrio,true,car,null,6,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Other,2003,103000,kilometer,TACUMA,Tacuma 2000i CDX,true,car,null,10,null
+null,Other,null,CHF,null,Zuzwil,CH,Renault,1971,19200,kilometer,Alpine A110, 1600S Gruppe 5 look,true,car,null,1,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Porsche,2011,28000,kilometer,911, Turbo S Cabrio PDK,true,car,null,4,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Maserati,2000,64600,kilometer,3200 GT,,true,car,null,3,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,42000,kilometer,S 400, CDI,true,car,null,4,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Ferrari,1999,49000,kilometer,456,M GT,true,car,null,5,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1991,89700,kilometer,190, E 2.5-16 Evo II ABS,true,car,null,7,null
+null,Yellow,null,CHF,null,Safenwil,CH,Toyota,1985,58100,kilometer,CAMRY, 2000 GLi Super Liftback,true,car,null,5,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Porsche,2006,91600,kilometer,CAYENNE,Cayenne Turbo S,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2003,121000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,3,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Chrysler,1993,28600,kilometer,VIPER,Viper RT/10,true,car,null,10,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,128000,kilometer,S 320,,true,car,null,4,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Toyota,1990,135800,kilometer,MR2, 2.0,true,car,null,12,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Ferrari,1989,31700,kilometer,TESTAR./512,Testarossa,true,car,null,1,null
+null,Gold,null,CHF,null,Zuzwil,CH,Chevrolet,2010,13000,kilometer,CORVETTE,Corvette ZR1,true,car,null,2,null
+null,Gold,null,CHF,null,Zuzwil,CH,Ruf,1990,46000,kilometer,null,CTR,true,car,null,1,null
+null,Gold,null,CHF,null,Zuzwil,CH,Daimler,1996,94800,kilometer,XJ,Six 4.0,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2001,25900,kilometer,911, Turbo,true,car,null,10,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2005,20400,kilometer,911, Carrera Cabrio,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Jaguar,2002,32900,kilometer,S-TYPE,S-Type 4.2 V8 S/C R,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Maserati,2002,63000,kilometer,SPYDER GT,Spyder GT,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2008,32800,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Maserati,2006,46050,kilometer,QUATTROPORTE,Quattroporte 4.2,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Chevrolet,1981,27700,kilometer,CORVETTE,,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Maserati,2002,88500,kilometer,SPYDER GT,Spyder GT,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Lancia,1992,155000,kilometer,DELTA,Delta HF Integrale Evo,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1994,48700,kilometer,SL 600,,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,20000,kilometer,SL 600,,true,car,null,3,null
+null,Other,null,CHF,null,Safenwil,CH,Austin-Healey,1959,16900,kilometer,null,100/Six BN6 Roadster,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2006,29500,kilometer,911, Carrera S Cabrio,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2003,63300,kilometer,911, Turbo,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Toyota,1983,158000,kilometer,CELICA,Celica 2800 i Supra,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2010,47500,kilometer,PANAMERA,Panamera Turbo 4.8,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,1998,85800,kilometer,540,i Touring,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Maserati,2002,114800,kilometer,COUPÉ GT,Coupé GT,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Lamborghini,2015,300,kilometer,HURACAN,Huracan LP610-4 Coupé,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Fiat,2004,75200,kilometer,PUNTO,Punto 1.8 16V HGT,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Other,2014,200,kilometer,null,Therry T22,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,205500,kilometer,S 55 AMG,,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2007,65000,kilometer,R8, Coupé 4.2,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,36000,kilometer,CLK 63 AMG, Black Series,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Bentley,2007,58000,kilometer,CONTINENTAL,Continental GTC 6.0,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,1997,62000,kilometer,F550, Maranello,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Aston Martin,2012,5000,kilometer,DBS, Coupé,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,112800,kilometer,S 500,,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,19800,kilometer,CL 65 AMG,,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,VW,2003,119000,kilometer,PHAETON,Phaeton 4.2 V8 4Motion,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,2004,45000,kilometer,612,,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2008,14000,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Renault,1969,45000,kilometer,null,R8 Gordini,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,VW,2000,1,kilometer,BEETLE, New Beetle Cup,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,128800,kilometer,S 500, L,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2002,38500,kilometer,RS6, Avant quattro,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,MG,1968,48800,kilometer,MGC,C GT,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,1978,51000,kilometer,924,,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,VW,2011,36300,kilometer,GOLF,Golf 2.0 TSI R 4Motion,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Land Rover,2011,50400,kilometer,DEFENDER,Defender 90 2.4Td4 SW,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,1998,54500,kilometer,S6, quattro 4.2,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,45500,kilometer,SL 55 AMG,,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2002,128000,kilometer,911, Carrera Targa,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1993,75900,kilometer,SL 600,,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,1995,89200,kilometer,740,i,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,106000,kilometer,SL 500,,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,1982,238500,kilometer,323, i,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Aston Martin,2003,24600,kilometer,V12 Vanquish,Vanquish V12,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,2010,67800,kilometer,530 Gran Turismo,530d GT,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Talbot,1982,182200,kilometer,MATRA,Murena 2.2,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Lotus,2002,26800,kilometer,Super Seven, HKT,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,9900,kilometer,S 320, CDI,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,2000,68000,kilometer,456,M GTA,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Lamborghini,2006,16200,kilometer,MURCIÉLAGO,Murciélago 6.2 Roadster,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,47300,kilometer,SL 500,,true,car,null,2,null
+null,Green,null,CHF,null,Zuzwil,CH,Simca,1976,18200,kilometer,null,Rallye2,true,car,null,11,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,2002,52900,kilometer,M3,,true,car,null,12,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,44000,kilometer,E 420, Elégance,true,car,null,10,null
+null,Green,null,CHF,null,Zuzwil,CH,Ferrari,1999,92000,kilometer,456,M GTA,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2007,36700,kilometer,CAYENNE,Cayenne Turbo,true,car,null,3,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,2003,103600,kilometer,Z4, 2.5i Roadster,true,car,null,3,null
+null,Green,null,CHF,null,Porrentruy,CH,Mercedes-Benz,2011,19900,kilometer,S 500, L,true,car,null,9,null
+null,Green,null,CHF,null,Zuzwil,CH,NSU,1972,10352,kilometer,null,TT,true,car,null,8,null
+null,Green,null,CHF,null,Zuzwil,CH,Audi,2008,42500,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,10,null
+null,Green,null,CHF,null,Zuzwil,CH,Ferrari,2003,14500,kilometer,575M, NOVITEC,true,car,null,6,null
+null,Green,null,CHF,null,Zuzwil,CH,Ferrari,1992,56500,kilometer,MONDIAL,Mondial 3.4 T,true,car,null,5,null
+null,Green,null,CHF,null,Zuzwil,CH,VW,2002,43900,kilometer,PHAETON,Phaeton 6.0 W12 4Motion,true,car,null,11,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,16660,kilometer,null,CLK DTM AMG,true,car,null,8,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,75000,kilometer,E 430, Avantgarde,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,19100,kilometer,CLS 63 AMG,,true,car,null,12,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,50200,kilometer,CL 55 AMG,,true,car,null,3,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,1982,211000,kilometer,323, Alpina Look,true,car,null,2,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,43200,kilometer,SLK 320,,true,car,null,5,null
+null,Green,null,CHF,null,Zuzwil,CH,Audi,2008,45300,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,12,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,7600,kilometer,SL 500,,true,car,null,5,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,29000,kilometer,CL 600,,true,car,null,5,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2012,16500,kilometer,ML 63 AMG, 4Matic,true,car,null,1,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,12900,kilometer,SL 600,,true,car,null,5,null
+null,Green,null,CHF,null,Zuzwil,CH,Land Rover,1998,70000,kilometer,RANGE ROVER,Range Rover 4.6 HSE,true,car,null,10,null
+null,Green,null,CHF,null,Zuzwil,CH,Porsche,2007,20900,kilometer,911, GT2,true,car,null,12,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2009,84000,kilometer,SL 63 AMG,,true,car,null,1,null
+null,Green,null,CHF,null,Zuzwil,CH,Ferrari,2003,53600,kilometer,F360, Spider,true,car,null,3,null
+null,Green,null,CHF,null,Zuzwil,CH,Porsche,2004,47500,kilometer,911, Turbo,true,car,null,1,null
+null,Orange,null,CHF,null,Zuzwil,CH,Maserati,2006,33600,kilometer,QUATTROPORTE,Quattroporte 4.2 Exec. GT,true,car,null,3,null
+null,Orange,null,CHF,null,Zuzwil,CH,Alfa Romeo,1984,584,kilometer,GTV, 6 2.5,true,car,null,6,null
+null,Orange,null,CHF,null,Zuzwil,CH,Porsche,2007,5000,kilometer,911, GT3 CUP Rennwagen,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,32000,kilometer,SL 55 AMG,,true,car,null,10,null
+null,Orange,null,CHF,null,Porrentruy,CH,Lamborghini,1996,7000,kilometer,DIABLO, SV-R Race,true,car,null,0,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,140200,kilometer,E 350, Elégance 4Matic,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,22100,kilometer,SL 65 AMG,,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Ferrari,2001,58000,kilometer,F360, Spider,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2000,185900,kilometer,S4, Avant quattro,true,car,null,7,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,2003,47000,kilometer,RS6, Avant quattro,true,car,null,9,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,2007,78400,kilometer,CAYENNE,Cayenne S,true,car,null,9,null
+null,Red,null,CHF,null,Zuzwil,CH,Aston Martin,2006,41000,kilometer,DB9, Volante,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Opel,2003,11700,kilometer,SPEEDSTER,Speedster 2.0 16V Turbo,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lamborghini,2002,16000,kilometer,MURCIÉLAGO,Murciélago 6.2 Coupé,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,2014,9900,kilometer,911, Turbo S Cabrio,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2012,20100,kilometer,E 63 AMG, CGI,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Ferrari,2007,45000,kilometer,F430,,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,36800,kilometer,SL 500,,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,2002,81900,kilometer,330,Ci,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,Bentley,1986,101500,kilometer,Mulsanne, Turbo,true,car,null,9,null
+null,Red,null,CHF,null,Zuzwil,CH,Saab,2005,104400,kilometer,9-3, 2.0T Performance,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,43700,kilometer,C 350, Elégance 4Matic,true,car,null,11,null
+null,Red,null,CHF,null,Zuzwil,CH,BMW,1999,29800,kilometer,M5,,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Triumph,1974,38000,kilometer,Spitfire, MK IV,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,Jaguar,2001,95100,kilometer,XJ,R 4.0 V8 S/C,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Bentley,2002,62000,kilometer,ARNAGE,Arnage T,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2010,29000,kilometer,E 63 AMG,,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Renault,1982,82400,kilometer,ALPINE, V6,true,car,null,11,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,2001,21100,kilometer,911, GT3 CS,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,132600,kilometer,E 420, Avantgarde,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Dodge,1979,13800,kilometer,null,B 200,true,car,null,7,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,2010,38000,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,9,null
+null,Red,null,CHF,null,Zuzwil,CH,BMW,2001,127800,kilometer,M3,,true,car,null,9,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,2000,45000,kilometer,A6, Avant 2.7 T Ambition,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2010,2900,kilometer,CAYENNE,Cayenne Turbo Techart Magnum Kit,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2003,43400,kilometer,RS6, Avant quattro,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,1997,33800,kilometer,A8, 4.2 quattro,true,car,null,9,null
+null,Red,null,CHF,null,Zuzwil,CH,BMW,2004,61900,kilometer,X5, 4.8is,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2008,25700,kilometer,135,i,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ferrari,2000,46500,kilometer,456,M GT,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,43300,kilometer,SL 55 AMG,,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1995,62000,kilometer,S 600,,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Nissan,1992,98000,kilometer,SUNNY, 2.0 16V GTI-R Rallye,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Volvo,1999,107000,kilometer,S40, 2.0 T,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,51000,kilometer,CLS 500,,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,1998,34600,kilometer,F355, Spider,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,1997,91900,kilometer,S6, Avant quattro 4.2,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2008,28500,kilometer,GALLARDO,Gallardo LP560-4 Coupé,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,45300,kilometer,SL 600,,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,118200,kilometer,C 180, Esprit,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2005,49800,kilometer,MURCIÉLAGO,Murciélago 6.2 Coupé,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,123300,kilometer,E 500, Avantgarde,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1995,111900,kilometer,750,iL,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1996,79800,kilometer,320,i Touring,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1960,177000,kilometer,null,DAUPHINE GORDINI,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2007,99800,kilometer,525,xi,true,car,null,1,null
+null,Black,null,CHF,null,Sursee,CH,Ferrari,1989,7000,kilometer,F40 / F50,,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1972,68000,kilometer,Alpine A110, 1600 S,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2001,120900,kilometer,530,i Touring,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,1999,18200,kilometer,456,M GTA,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1983,128500,kilometer,ALPINE, V6,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Ford,1990,164400,kilometer,SIERRA,Sierra 2.0i Cosworth 4x4,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2004,61400,kilometer,911, Carrera Jubilé 40,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,VW,2002,15900,kilometer,PHAETON,Phaeton 6.0 W12 4Motion,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,70900,kilometer,SL 320,,true,car,null,1,null
+null,Black,null,CHF,null,Sursee,CH,Porsche,2011,6300,kilometer,911, GT3 RS,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,2009,53300,kilometer,LEON,Leon 2.0 TSI FR,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2004,56600,kilometer,QUATTROPORTE,Quattroporte 4.2,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2003,40900,kilometer,RS6, Avant quattro,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2009,29500,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,60500,kilometer,B 200, T Sailing Edition,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2006,9800,kilometer,QUATTROPORTE,Quattroporte 4.2,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2007,77500,kilometer,335,i,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,42500,kilometer,SLK 55 AMG,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2005,64500,kilometer,CAYENNE,Cayenne Turbo,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2008,29300,kilometer,TT,S Cpé 2.0 TFSI quattro,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,103800,kilometer,CL 600,,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1983,159700,kilometer,R5, 1400 Alpine Turbo,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,118000,kilometer,ML 500,,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Ford,1973,36100,kilometer,CAPRI, RS 2600,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,70700,kilometer,E 50 AMG, Avantgarde,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,1998,94400,kilometer,5 SERIES,B10 4.6 S.Tronic,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,63400,kilometer,E 55 AMG, Avantgarde,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1974,134000,kilometer,2002, Turbo,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,1998,60700,kilometer,750,i,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2006,24300,kilometer,QUATTROPORTE,Quattroporte 4.2 Sport GT,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2009,57400,kilometer,C 63 AMG, Avantgarde,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,1995,124900,kilometer,BROOKLANDS,Brooklands,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Aston Martin,2007,35500,kilometer,V8 Vantage, 4.3,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,2012,4950,kilometer,5 SERIES,B5 BiTurbo 4.4 V8,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2011,39000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Jaguar,1999,89666,kilometer,XK,R S/C,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Other,2012,92000,kilometer,MUSTANG,Mustang Shelby GT500,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,25000,kilometer,SLK 55 AMG, Black Series,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Chevrolet,1994,68200,kilometer,CORVETTE,Corvette 5.7 LT1 Convert.,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1971,145100,kilometer,300, SEL 3.5,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1996,81900,kilometer,911, Carrera Cabrio,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2003,43800,kilometer,RS6, Avant quattro,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Lotus,1969,62200,kilometer,EUROPA,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2000,171000,kilometer,M5,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1992,52500,kilometer,SL 600,,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Opel,1982,60990,kilometer,MANTA, 400 Breitbau,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2009,45000,kilometer,750,i xDrive,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Opel,2006,90600,kilometer,VECTRA,Vectra 2.8 T V6 Cosmo,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2001,79900,kilometer,X5, 4.4i,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1985,97000,kilometer,SL-CLASS,500 SL,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1997,74000,kilometer,911, Targa,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Nissan,2005,54500,kilometer,MURANO,Murano 3.5 V6,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,1998,32800,kilometer,F355, Berlinetta,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2002,75200,kilometer,RS6, Avant quattro,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Toyota,1983,54100,kilometer,CELICA,Celica 2800 i Supra,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2004,66100,kilometer,A4, Avant 3.0 V6 quattro,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,70000,kilometer,SL 600,,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Hummer,2006,127700,kilometer,H3, 3.5 Luxury,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1995,65400,kilometer,740,i,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1996,86100,kilometer,535,i,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1990,23800,kilometer,SL 500,,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2004,69500,kilometer,CAYENNE,Cayenne Turbo,true,car,null,11,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,29500,kilometer,CL 600,,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2004,2300,kilometer,RS6, Avant quattro,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,29100,kilometer,SL 600,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1984,137700,kilometer,911, Carrera Cabrio,true,car,null,12,null
+null,Black,null,CHF,null,Porrentruy,CH,Lamborghini,1998,13960,kilometer,DIABLO,Diablo 5.7 VT Roadster,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Jeep,1997,61000,kilometer,Grand Cherokee, 5.2 Ltd.,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1973,110200,kilometer,450, SLC,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2003,88600,kilometer,RS6, Avant quattro,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2002,44000,kilometer,A8, 4.2 quattro,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,VW,2002,175000,kilometer,PHAETON,Phaeton 6.0 W12 4Motion,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2008,67700,kilometer,S5, Coupé 4.2 FSI quattro,true,car,null,5,null
+null,Black,null,CHF,null,Porrentruy,CH,Lamborghini,2014,1999,kilometer,AVENTADOR,Aventador LP700-4 Rds,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,1981,114000,kilometer,924, Turbo,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,McLaren,2012,55,kilometer,12C,MP4- 3.8 V8,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2008,18200,kilometer,CAYENNE,Cayenne Turbo,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Land Rover,2010,15000,kilometer,RANGE ROVER SPORT,Range Rover Sport 5.0 V8 SC,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,51000,kilometer,S 500,,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,34500,kilometer,SL 55 AMG,,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,65400,kilometer,600-SERIES,611 DS,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Lotus,2002,150,kilometer,ESPRIT,Esprit 3.5 V8 SE,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1972,14873,kilometer,R12, Gordini,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,300,kilometer,SLK 200, Kompressor,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Bentley,1999,44600,kilometer,ARNAGE,Arnage Green Label,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2012,19400,kilometer,SLK 55 AMG,,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2005,84000,kilometer,CONTINENTAL,Continental GT 6.0,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1992,108100,kilometer,SL 600,,true,car,null,9,null
+null,Blue,null,CHF,null,Zuzwil,CH,Opel,2004,9000,kilometer,SPEEDSTER,Speedster 2.2 16V,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,16000,kilometer,ML 430,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,1,kilometer,ML 500, 4Matic,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,48300,kilometer,CL 65 AMG,,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,26400,kilometer,SLR, McLaren Coupé,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1994,41700,kilometer,911, Turbo,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Matra,1979,52000,kilometer,null,SIMCA Bagheera Serie II,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,2001,62900,kilometer,911, Turbo,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2001,59500,kilometer,911, Turbo,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,2008,5000,kilometer,F430, Challenge GT3 LOOK,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1996,65000,kilometer,740,i,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2007,72000,kilometer,550,i Touring,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2001,21700,kilometer,ARNAGE,Arnage Red Label,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Jeep,1996,126200,kilometer,Grand Cherokee, 4.0 Ltd.,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Rolls-Royce,1990,47100,kilometer,CORNICHE, III,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2011,23000,kilometer,SLS 63, AMG,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,8900,kilometer,SL 320,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2003,21800,kilometer,X5, 4.6is,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Fiat,1978,115100,kilometer,SPIDER, CSA,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2012,12000,kilometer,M5,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2009,76200,kilometer,CONTINENTAL,Continental GTC 6.0,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2010,13200,kilometer,S 63 AMG,,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2009,45000,kilometer,GRANTURISMO,GranTurismo S,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Jaguar,2000,107100,kilometer,XK,R S/C Convertible,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2004,36700,kilometer,GALLARDO,Gallardo 5.0 V10 Coupé,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,33000,kilometer,null,CL 5.8 BRABUS,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2002,32900,kilometer,X5, 4.6is,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Alfa Romeo,1984,75000,kilometer,GTV, 6 2.5,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,64100,kilometer,C 43 AMG, Sport,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2003,59000,kilometer,RS6, Avant quattro,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1998,26000,kilometer,911, Carrera,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,32500,kilometer,SL 55 AMG,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1978,90000,kilometer,Alpine A110, Modell 1400 FASA,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,77000,kilometer,CLS 55 AMG,,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,89200,kilometer,E 240, Elégance,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2004,75600,kilometer,911, Carrera 4 S Cabrio,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2007,46500,kilometer,911, Turbo Cabrio,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1974,82600,kilometer,2002, Turbo,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2008,48200,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,11,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2012,19999,kilometer,SL 63 AMG,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,45200,kilometer,SL 55 AMG,,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,VW,2008,71700,kilometer,TOURAN,Touran 1.4 TSI Trend,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,73700,kilometer,S 320,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Talbot,1982,40100,kilometer,null,Sunbeam Lotus,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Saab,2002,117100,kilometer,9-5, 2.3T Aero,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2009,26500,kilometer,R8, Coupé 5.2,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Lincoln,2002,119600,kilometer,Continental,,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,1996,40600,kilometer,GHIBLI,Ghibli 2.8 GT,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Honda,1998,186000,kilometer,ACCORD,Accord Coupé V6 3.0i VTEC,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2011,31750,kilometer,RS5, Coupé 4.2FSI quattro,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2002,38200,kilometer,911, GT2,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,8000,kilometer,SL 500,,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2012,500,kilometer,C 63 AMG, BLACK SERIES,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1999,18300,kilometer,740,iL,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2000,7000,kilometer,911, GT3 CUP,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1995,49900,kilometer,328,i A Cabrio,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1995,134100,kilometer,911, Carrera 4,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,96400,kilometer,SL 600,,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,15100,kilometer,CL 500,,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Smart,2003,165000,kilometer,FORTWO,Fortwo passion,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2000,211000,kilometer,S6, Avant quattro,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,500,kilometer,R 500, 4Matic,true,car,null,1,null
+null,Silver,null,CHF,null,Sursee,CH,Ferrari,1970,8000,kilometer,365, Daytona Plexiglas,true,car,null,9,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ferrari,1995,78000,kilometer,F355, Berlinetta,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,VW,2003,117800,kilometer,TOUAREG,Touareg 5.0 TDI V10,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Nissan,1990,162900,kilometer,200 SX, 1.8 16V Turbo,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,1991,101300,kilometer,911, Turbo II,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2009,34000,kilometer,SL 65 AMG, BLACK SERIES,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,1999,47900,kilometer,911, GT3,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,Aston Martin,2005,40800,kilometer,DB9,,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,22400,kilometer,CL 600,,true,car,null,7,null
+null,Silver,null,CHF,null,Sursee,CH,Other,1968,1000,kilometer,MUSTANG,Mustang,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,162900,kilometer,C 240, Elégance,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2001,82100,kilometer,911, Turbo,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,McLaren,2012,1200,kilometer,12C,MP4- Coupé 3.8 V8,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1999,33900,kilometer,735,i,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1982,31000,kilometer,ALPINE,Alpine A310 V6,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,Toyota,2004,144000,kilometer,COROLLA,Corolla 2.0 D4D L.Terra,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2012,39200,kilometer,X1, xDrive 25d Sport Line,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,61000,kilometer,S 65 AMG,S 65 L AMG 650PS,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2000,35000,kilometer,456,M GT,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,56200,kilometer,S 65 AMG, L,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1997,23500,kilometer,SPORT SPIDER,Spider 2.0 16V TURBO,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2006,34500,kilometer,M6,,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Land Rover,2010,9000,kilometer,RANGE ROVER,Range Rover 5.0 V8 SC,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,MG,1930,86000,kilometer,null,M Roadster,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Fiat,1974,120000,kilometer,SPIDER,124 Spider CSA Abarth,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2001,41000,kilometer,F360, Spider,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2008,29300,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Lotus,2003,38200,kilometer,ELISE,Elise,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,3200,kilometer,SLK 350,,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,61000,kilometer,CLK 320, Sport,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,48500,kilometer,E 430, Avantgarde,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,2004,61200,kilometer,CLIO,Clio 3.0 Sport V6,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1981,139200,kilometer,ALPINE,Alpine A310 V6,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1994,111500,kilometer,SL 500,,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2001,75400,kilometer,911, Carrera Cabrio,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2006,29900,kilometer,535,d,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1974,93500,kilometer,2002, tii,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1997,42000,kilometer,750,iL,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Bentley,1999,85700,kilometer,ARNAGE,Arnage Green Label,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2005,27800,kilometer,M5,,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2004,88000,kilometer,M3, CSL,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,64000,kilometer,SL 500,,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,24400,kilometer,SL 500,,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1991,98000,kilometer,SL 500, 6.0 AMG,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,40300,kilometer,S 65 AMG, L,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2003,34000,kilometer,RS6, Avant quattro,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2006,31500,kilometer,M5,,true,car,null,6,null
+null,Silver,null,CHF,null,Sursee,CH,Mercedes-Benz,1955,5000,kilometer,300, SL W198,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Lancia,1978,57000,kilometer,null,Monte Carlo 137 AS,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Toyota,1972,57700,kilometer,CARINA, Deluxe,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2009,1,kilometer,CAYENNE,Cayenne S,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2013,5400,kilometer,650,i xDrive,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2000,28000,kilometer,F360, Modena Berlinetta,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,94000,kilometer,S 65 AMG, L,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2002,36900,kilometer,RS6, Avant quattro,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,1999,29000,kilometer,F355, Berlinetta,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Volvo,2001,145000,kilometer,S60, 2.4T,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2003,156000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2010,26300,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2010,57600,kilometer,PANAMERA,Panamera 4S 4.8,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,21400,kilometer,SL 55 AMG,,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2000,25000,kilometer,F360, Modena Berlinetta,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Lamborghini,2010,20800,kilometer,MURCIÉLAGO,Murciélago LP670-4 SV Cpé,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,128800,kilometer,S 600, L,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2001,91000,kilometer,X5, 4.4i,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Land Rover,2006,126300,kilometer,RANGE ROVER SPORT,Range Rover Sport 4.2 V8 SC,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2007,400,kilometer,CAYENNE,Cayenne Turbo S,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2008,21000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Other,1980,129400,kilometer,7 SERIES, B7 Turbo Limousine,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Other,2003,54100,kilometer,3 SERIES,B3 3.3 S,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Bentley,2003,57000,kilometer,ARNAGE,Arnage T,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,29800,kilometer,SLR, McLaren,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,35600,kilometer,E 50 AMG, Avantgarde,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2004,21400,kilometer,911, Turbo Cabrio,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2006,95700,kilometer,RS4, 4.2 V8 quattro,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,1998,41300,kilometer,F355, Berlinetta,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,78700,kilometer,CLS 500,,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,1983,134000,kilometer,911, SC 3.0,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2005,55000,kilometer,M6,,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Bentley,1995,47500,kilometer,TURBO,,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,PGO,2008,3000,kilometer,null,Cevennes,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,39600,kilometer,CL 500,,true,car,null,1,null
+null,Silver,null,CHF,null,Sursee,CH,Lamborghini,2014,150,kilometer,AVENTADOR,Aventador LP700-4 Rds,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2002,67700,kilometer,A6, 2.4,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Lamborghini,1993,46700,kilometer,DIABLO,Diablo 5.7 VT,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2005,13700,kilometer,CAYENNE,Cayenne Turbo,true,car,null,12,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ferrari,2004,42600,kilometer,F360, Modena Berlinetta,true,car,null,2,null
+null,Silver,null,CHF,null,Porrentruy,CH,Alfa Romeo,2011,23900,kilometer,8C,,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1974,97100,kilometer,2002, Turbo,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Lamborghini,2006,20000,kilometer,GALLARDO,Gallardo 5.0 V10 Coupé SE,true,car,null,1,null
+null,Silver,null,CHF,null,Sursee,CH,Mercedes-Benz,1971,500,kilometer,280, 3.5 V8 Cabrio,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,156800,kilometer,SL 320,,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2004,91600,kilometer,CAYENNE,Cayenne Turbo,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,1999,80400,kilometer,911, Carrera 4 Cabrio TECHART,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2002,47400,kilometer,RS6, Avant quattro,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,87800,kilometer,ML 400, CDI,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,VW,2007,87000,kilometer,GOLF,Golf 2.0 TFSI GTI,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,VW,2009,33500,kilometer,JETTA,Jetta 2.0 TDI Comfort,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1989,198000,kilometer,190, E 2.5-16 ABS,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2011,10900,kilometer,Z4, M Coupé,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1976,42940,kilometer,ALPINE, 1600 VF,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2002,35100,kilometer,A8, 4.2 quattro,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Toyota,1986,101400,kilometer,COROLLA,Corolla 1600 GTi TC16,true,car,null,12,null
+null,Silver,null,CHF,null,Basel,CH,Bentley,2006,15600,kilometer,ARNAGE,Arnage T,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2006,108200,kilometer,RS4, 4.2 V8 quattro,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2001,60800,kilometer,911, Turbo,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2002,68100,kilometer,911, Carrera 4 S,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Triumph,1977,12800,kilometer,Dolomite, Sprint,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,74400,kilometer,SL 500,,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2007,32000,kilometer,M6,,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1983,69000,kilometer,ALPINE,Alpine A310 V6,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,VW,2002,31300,kilometer,PHAETON,Phaeton 6.0 W12 4Motion,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2008,19999,kilometer,F430, Scuderia,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1997,69600,kilometer,750,i,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,1992,16500,kilometer,MONDIAL,Mondial 3.4 T,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ferrari,2013,12000,kilometer,F12, Berlinetta,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,83600,kilometer,SL 320,,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1970,57700,kilometer,Alpine A110, 1600S,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Datsun,1981,50300,kilometer,280, ZX,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,126300,kilometer,ML 350, Inspiration,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2003,94500,kilometer,911, Turbo,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2003,35000,kilometer,M3, CSL,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mitsubishi,1999,120800,kilometer,LANCER, EVO V,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,75300,kilometer,null,6.7 BRABUS,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2000,38200,kilometer,911, Carrera 4,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2005,49900,kilometer,TT, Roadster 1.8 T,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1995,96600,kilometer,SL 500,,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Bentley,2000,19300,kilometer,ARNAGE,Arnage Red Label,true,car,null,5,null
+null,Silver,null,CHF,null,St. Gallen,CH,Bentley,2015,5000,kilometer,CONTINENTAL,Continental GT Speed 6.0,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,67400,kilometer,E 50 AMG, Avantgarde,true,car,null,3,null
+null,Other,null,CHF,null,Porrentruy,CH,Lamborghini,1999,44500,kilometer,DIABLO,Diablo 5.7 SV,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,32000,kilometer,S 500,,true,car,null,10,null
+null,White,null,CHF,null,Zuzwil,CH,Maserati,2003,78300,kilometer,SPYDER GT,Spyder GT,true,car,null,5,null
+null,White,null,CHF,null,Zuzwil,CH,Audi,2004,95300,kilometer,A4, 3.0 V6,true,car,null,2,null
+null,White,null,CHF,null,Zuzwil,CH,Renault,1979,11200,kilometer,ALPINE, A310 2700 VA,true,car,null,11,null
+null,White,null,CHF,null,Zuzwil,CH,Ferrari,2007,26000,kilometer,575M,,true,car,null,5,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,43000,kilometer,SL 600,,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Porsche,2007,10,kilometer,CAYENNE,Cayenne Turbo,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,94000,kilometer,CL 600,,true,car,null,11,null
+null,White,null,CHF,null,Zuzwil,CH,Ferrari,2012,11700,kilometer,458, Spider Italia 4.5 V8,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Audi,2008,120000,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,7,null
+null,White,null,CHF,null,Zuzwil,CH,Chevrolet,1961,67000,kilometer,CORVETTE, C1,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Ruf,2007,36000,kilometer,null,RT 12,true,car,null,6,null
+null,White,null,CHF,null,Zuzwil,CH,Bentley,2000,34900,kilometer,ARNAGE,Arnage Green Label,true,car,null,7,null
+null,White,null,CHF,null,Zuzwil,CH,Jaguar,1996,99900,kilometer,XJ,R 4.0 Supercharged,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,37500,kilometer,ML 500, 4Matic,true,car,null,12,null
+null,White,null,CHF,null,Zuzwil,CH,Other,1981,15000,kilometer,null,De Lorean DMC-12,true,car,null,4,null
+null,White,null,CHF,null,Zuzwil,CH,Autobianchi,1974,9999,kilometer,A112, Abarth Serie II,true,car,null,6,null
+null,White,null,CHF,null,Zuzwil,CH,Chevrolet,2007,34500,kilometer,Silverado, 2500HD 6.6l V8,true,car,null,2,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,73400,kilometer,CL 600,,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,15800,kilometer,CLS 63 AMG,,true,car,null,9,null
+null,White,null,CHF,null,Zuzwil,CH,Hummer,2008,150,kilometer,H3, 3.7 Adventure,true,car,null,11,null
+null,White,null,CHF,null,Zuzwil,CH,Rolls-Royce,2004,54000,kilometer,PHANTOM,Phantom 6.7 V12,true,car,null,11,null
+null,White,null,CHF,null,Zuzwil,CH,Porsche,2008,73500,kilometer,911, Turbo,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Other,1999,50100,kilometer,EXPLORER,Explorer 4.0 Ltd. Edition,true,car,null,9,null
+null,White,null,CHF,null,Zuzwil,CH,Renault,1971,31800,kilometer,Alpine A110, 1300 VC Gordini,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Audi,2010,15000,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Bentley,2004,79700,kilometer,CONTINENTAL,Continental GT 6.0,true,car,null,7,null
+null,White,null,CHF,null,Zuzwil,CH,Mazda,2007,6900,kilometer,MX-5, 1.8i 16V Confort,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Audi,2009,31500,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Audi,1996,143700,kilometer,A8, 4.2 quattro,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1991,91600,kilometer,500, SE,true,car,null,8,null
+null,White,null,CHF,null,Zuzwil,CH,BMW,2009,110600,kilometer,320,d xDrive M-Sportpaket,true,car,null,2,null
+null,White,null,CHF,null,Zuzwil,CH,BMW,1998,34400,kilometer,728,i,true,car,null,11,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2010,37500,kilometer,CLS 63 AMG,,true,car,null,8,null
+null,White,null,CHF,null,Zuzwil,CH,McLaren,2013,12000,kilometer,12C,MP4- Cabriolet 3.8 V8,true,car,null,3,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,81000,kilometer,SL 55 AMG,,true,car,null,1,null
+null,White,null,CHF,null,Zuzwil,CH,Porsche,2006,29800,kilometer,911, Carrera S Cabrio,true,car,null,8,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,15600,kilometer,SL 500,,true,car,null,11,null
+null,White,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1993,26800,kilometer,S 600,,true,car,null,8,null
+null,White,null,CHF,null,Zuzwil,CH,Ferrari,2000,36000,kilometer,456,M GT,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,41000,kilometer,SL 55 AMG,,true,car,null,12,null
+null,White,null,CHF,null,Zuzwil,CH,BMW,1998,39700,kilometer,M5,,true,car,null,10,null
+null,White,null,CHF,null,Porrentruy,CH,Lamborghini,2008,5900,kilometer,null,Reventon Coupé,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,83000,kilometer,E 320, Avantgarde,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,2009,33000,kilometer,911, Turbo,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,145100,kilometer,C 320, Elégance,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Other,1986,199300,kilometer,5 SERIES, B7 TURBO,true,car,null,5,null
+null,Blue,null,CHF,null,Porrentruy,CH,Ferrari,2003,42500,kilometer,F360, Modena Berlinetta,true,car,null,11,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2013,23900,kilometer,E 63 AMG, S 4Matic,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lamborghini,2007,38000,kilometer,MURCIÉLAGO,Murciélago LP640-4 Cpé,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,1980,54000,kilometer,924, Turbo,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,MG,1957,37000,kilometer,null,Roadster,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,96500,kilometer,S 55 AMG,,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,106000,kilometer,E 240, Avantgarde,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,1990,27700,kilometer,Z1,,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Honda,2001,111500,kilometer,LEGEND,Legend V6 3.5i,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,2002,132600,kilometer,911, Turbo,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,25100,kilometer,SL 320,,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,1995,119600,kilometer,750,i,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2008,49800,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,123400,kilometer,C 230, Elégance,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lamborghini,2011,18000,kilometer,GALLARDO,Gallardo LP570-4 Coupé SL,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,68800,kilometer,S 65 AMG, L,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Other,2015,4300,kilometer,MUSTANG,Mustang 5.0 GT Premium 50 Years,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,VW,2007,27000,kilometer,EOS,Eos 2.0 FSI T,true,car,null,9,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2004,62000,kilometer,A6, 4.2 V8 quattro,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,86900,kilometer,E 55 AMG, Avantgarde,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,1999,34400,kilometer,911, Carrera Cabrio,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Other,2007,66800,kilometer,6 SERIES,B6 4.4 V8 Cabrio,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,1998,78700,kilometer,540,i,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,16500,kilometer,SL 55 AMG,,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,2000,43400,kilometer,BOXSTER,Boxster S 3.2,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ferrari,2015,200,kilometer,458, Italia 4.5 V8 Speciale,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2013,25100,kilometer,ML 63 AMG, 4Matic,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1993,111000,kilometer,S 600,,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,166550,kilometer,SLK 230, Kompressor,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Aston Martin,1998,97200,kilometer,DB7,,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Renault,1981,68900,kilometer,ALPINE,Alpine A310 V6,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2002,47600,kilometer,RS6, Avant quattro,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Maserati,2004,62700,kilometer,QUATTROPORTE,Quattroporte 4.2,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2002,39300,kilometer,RS6, Avant quattro,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ferrari,2002,51200,kilometer,575M,,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Land Rover,1998,49700,kilometer,RANGE ROVER,Range Rover 4.6 HSE,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Toyota,1971,53100,kilometer,CELICA, 1600 GT,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2004,49000,kilometer,A8,  6.0 quattro,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2008,46000,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Renault,1978,77300,kilometer,ALPINE,Alpine A310 V6,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,2002,142000,kilometer,M3,,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2001,37800,kilometer,RS4, Avant quattro,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,52500,kilometer,CLK 55 AMG, Avantgarde,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,30500,kilometer,SLK 230, Kompressor,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,1996,139900,kilometer,911, Carrera 4S,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,23000,kilometer,SL 600,,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1939,1,kilometer,null,170V B Cabrio 136,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,128000,kilometer,S 500,,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2008,25400,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1993,63600,kilometer,SL 300,,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Fiat,1970,9999,kilometer,null,850 Spider,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,67400,kilometer,E 55 AMG, Avantgarde,true,car,null,10,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,2001,46000,kilometer,M3,,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2003,27900,kilometer,RS6, Avant quattro,true,car,null,7,null
+null,Brown,null,CHF,null,Zuzwil,CH,BMW,2008,22800,kilometer,Z4, 2.5i Roadster,true,car,null,9,null
+null,Brown,null,CHF,null,Zuzwil,CH,BMW,1998,33700,kilometer,328,i,true,car,null,4,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Morgan,2006,7100,kilometer,4/4, 1.8,true,car,null,6,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Ferrari,1998,28100,kilometer,F355, Berlinetta,true,car,null,3,null
+null,Yellow,null,CHF,null,Zuzwil,CH,BMW,2005,3000,kilometer,M5,,true,car,null,4,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Porsche,1971,96000,kilometer,911, Targa,true,car,null,11,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Audi,2001,103100,kilometer,S6, quattro,true,car,null,8,null
+null,Yellow,null,CHF,null,Zuzwil,CH,Mazda,2001,158000,kilometer,626, 2.0i-16V HPV,true,car,null,8,null
+null,Gold,null,CHF,null,Zuzwil,CH,BMW,2008,78900,kilometer,M3,,true,car,null,7,null
+null,Gold,null,CHF,null,Zuzwil,CH,Renault,1985,59900,kilometer,R5, Turbo 2,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Mazda,1989,67200,kilometer,RX-7, 2.6 Turbo II,true,car,null,8,null
+null,Other,null,CHF,null,Sursee,CH,Bugatti,2008,20000,kilometer,null,Veyron 16.4,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,54500,kilometer,S 500, L 4Matic,true,car,null,12,null
+null,Other,null,CHF,null,Zuzwil,CH,Bugatti,1998,4000,kilometer,EB, 110 GT/SS,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2008,41900,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,10,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,2003,8100,kilometer,575M,,true,car,null,12,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2003,39000,kilometer,RS6, Avant quattro,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2002,61800,kilometer,911, Carrera Targa,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,1997,41000,kilometer,F355, GTS,true,car,null,10,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,83900,kilometer,E 320, Elégance 4-Matic,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Jaguar,1998,99800,kilometer,XK,8 Convertible,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,2002,16600,kilometer,F360, Spider,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Renault,1982,124500,kilometer,R5, 1400 Alpine Turbo,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,2006,15900,kilometer,575M,,true,car,null,12,null
+null,Other,null,CHF,null,Zuzwil,CH,Bentley,2005,145000,kilometer,ARNAGE,Arnage R,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,165,kilometer,CL 500,,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,47400,kilometer,E 55 AMG, Avantgarde,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2003,68700,kilometer,CAYENNE,Cayenne Turbo,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2008,28000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2008,24600,kilometer,RS6, Avant 5.0 V10 quattro MTM,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Ruf,1997,20900,kilometer,null,CTR 2 Sport,true,car,null,10,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2002,52900,kilometer,911, Turbo,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Bentley,1990,112500,kilometer,TURBO,Turbo R,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,2011,76500,kilometer,535,i Touring,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2004,31000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,1996,88100,kilometer,911, Turbo,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Renault,1977,41400,kilometer,Alpine A110, 1600 SX,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,105300,kilometer,SL 350,,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Land Rover,1996,54600,kilometer,RANGE ROVER,Range Rover 4.6 HSE,true,car,null,12,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,1998,89500,kilometer,911, Carrera,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2009,59900,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Maserati,2003,50300,kilometer,SPYDER GT,Spyder GT,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Aston Martin,1991,68800,kilometer,Virage,,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2003,32900,kilometer,RS6, Avant quattro,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2002,100200,kilometer,RS6, Avant quattro,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,2001,113000,kilometer,X5, 4.4i,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,2008,37000,kilometer,612,,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2008,36700,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2000,69200,kilometer,911, Turbo,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2004,93500,kilometer,RS6, Avant quattro,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2002,38500,kilometer,RS6, Avant quattro,true,car,null,10,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,48300,kilometer,SL 500,,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1994,206000,kilometer,E 500, Limited,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,55200,kilometer,SL 500, Special Edition,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Lamborghini,2009,24000,kilometer,GALLARDO,Gallardo LP560-4 Coupé,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2007,68900,kilometer,BOXSTER,Boxster S 3.4,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2001,135800,kilometer,911, Carrera,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2001,47600,kilometer,911, Turbo,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,32700,kilometer,S 500, L,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,1997,82500,kilometer,323,i Sport Edition,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2011,79500,kilometer,CL 500, 4Matic,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2003,127000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,6000,kilometer,SL 55 AMG,,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,1997,125400,kilometer,A8, 4.2 quattro,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Ford,1927,1,kilometer,null,T - Roadster,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,100,kilometer,CLK 430, Elégance,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,1996,91000,kilometer,911, Carrera RS Clubsport/993 GT2,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,39800,kilometer,S 65 AMG, L,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2009,88500,kilometer,ML 63 AMG, 4Matic,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,2000,41500,kilometer,F360, Modena Berlinetta,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,34500,kilometer,SLR, 730PS,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Renault,1972,34900,kilometer,Alpine A110, 1600S VC,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2001,74100,kilometer,911, Turbo,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,73900,kilometer,S-CLASS,S 55 L AMG,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,2002,1600,kilometer,M3,,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Lamborghini,2011,4900,kilometer,GALLARDO,Gallardo LP560-4 Spyder,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Dodge,1994,37900,kilometer,VIPER,,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,97300,kilometer,S 65 AMG, L,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,29200,kilometer,E 500, Avantgarde,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,1997,66300,kilometer,A8, 4.2 quattro,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2000,51000,kilometer,BOXSTER,Boxster S 3.2,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,Ferrari,1997,32500,kilometer,456, GTA,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Ford,1966,69377,kilometer,CORTINA, Cortina Lotus,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2011,13800,kilometer,SLK 200,,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2012,2000,kilometer,ML 63 AMG, 4Matic,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,130000,kilometer,S 65 AMG, L,true,car,null,9,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,95400,kilometer,CLS 500,,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Land Rover,1998,42000,kilometer,RANGE ROVER,Range Rover 4.6 HSE,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,1999,47700,kilometer,911, Carrera 4,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Audi,2003,42600,kilometer,RS6, Avant quattro,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,55900,kilometer,CL 500,,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2009,44600,kilometer,911, GT2,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,1995,65400,kilometer,740,i,true,car,null,7,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,1975,104650,kilometer,null,1602,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Land Rover,1989,151300,kilometer,RANGE ROVER, 3.5,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Renault,1981,153600,kilometer,ALPINE,Alpine A310 V6,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,70400,kilometer,SLK 350,,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Austin-Healey,1960,9999,kilometer,null,BT7 3000 Mk I,true,car,null,1,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2006,36600,kilometer,CAYENNE,Cayenne Turbo S,true,car,null,8,null
+null,Other,null,CHF,null,Zuzwil,CH,Porsche,2003,59900,kilometer,CAYENNE,Cayenne S,true,car,null,3,null
+null,Other,null,CHF,null,Zuzwil,CH,Maserati,2010,29000,kilometer,QUATTROPORTE,Quattroporte 4.7 S,true,car,null,11,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2011,43000,kilometer,S 250, CDI BlueEff SS,true,car,null,9,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,2007,114600,kilometer,730,i,true,car,null,9,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,1999,54600,kilometer,M5,,true,car,null,9,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,13300,kilometer,ML 63 AMG, 4Matic,true,car,null,3,null
+null,Green,null,CHF,null,Zuzwil,CH,Audi,2007,61300,kilometer,R8, Coupé 4.2,true,car,null,9,null
+null,Green,null,CHF,null,Zuzwil,CH,Audi,1997,63400,kilometer,A8, 4.2 quattro,true,car,null,10,null
+null,Green,null,CHF,null,Zuzwil,CH,McLaren,2013,16000,kilometer,12C,MP4- Spider 3.8 V8,true,car,null,5,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,1980,176000,kilometer,323, i,true,car,null,10,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,1987,195800,kilometer,M3,,true,car,null,2,null
+null,Green,null,CHF,null,Zuzwil,CH,Lancia,1984,13000,kilometer,null,Rally 037 stradale,true,car,null,4,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,88500,kilometer,S 600,,true,car,null,3,null
+null,Green,null,CHF,null,Zuzwil,CH,Ferrari,1994,34000,kilometer,348, tb,true,car,null,3,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,62700,kilometer,SL 63 AMG,,true,car,null,6,null
+null,Green,null,CHF,null,Zuzwil,CH,Porsche,2011,16000,kilometer,911, Turbo S Cabrio SPEED ART 580PS,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,46000,kilometer,S 65 AMG,S 65 L / BRABUS T65 S,true,car,null,2,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,72000,kilometer,null,E 60 Carlsson,true,car,null,11,null
+null,Green,null,CHF,null,Zuzwil,CH,Porsche,2003,38600,kilometer,911, Turbo,true,car,null,4,null
+null,Green,null,CHF,null,Porrentruy,CH,Lamborghini,1995,64800,kilometer,DIABLO,Diablo SE 30,true,car,null,9,null
+null,Green,null,CHF,null,Zuzwil,CH,Aston Martin,2010,71300,kilometer,DBS, Volante,true,car,null,4,null
+null,Green,null,CHF,null,Zuzwil,CH,Bentley,2010,15000,kilometer,CONTINENTAL,Continental Supersports Conv.,true,car,null,9,null
+null,Green,null,CHF,null,Zuzwil,CH,Lexus,2006,34000,kilometer,GS, 450h,true,car,null,7,null
+null,Green,null,CHF,null,Zuzwil,CH,Fiat,1972,131000,kilometer,Dino, 2400 Coupé,true,car,null,10,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,2000,140000,kilometer,323,Ci,true,car,null,7,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1999,16300,kilometer,SL 500,,true,car,null,4,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,118300,kilometer,CLS 55 AMG,,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,Chevrolet,2015,200,kilometer,CORVETTE,Corvette Z06,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,49900,kilometer,E 55 AMG, Avantgarde,true,car,null,6,null
+null,Green,null,CHF,null,Zuzwil,CH,Porsche,2002,77600,kilometer,911, Turbo,true,car,null,2,null
+null,Green,null,CHF,null,Zuzwil,CH,Audi,2010,34800,kilometer,S3, 2.0 TFSI quattro,true,car,null,4,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,23700,kilometer,CLK 55 AMG, Avantgarde,true,car,null,12,null
+null,Green,null,CHF,null,Zuzwil,CH,Peugeot,2003,72600,kilometer,406, Coupé 3.0 V6 Pack,true,car,null,10,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,1977,128600,kilometer,633, CSI A,true,car,null,1,null
+null,Green,null,CHF,null,Zuzwil,CH,Audi,1998,94000,kilometer,A6, 2.8 Ambiente,true,car,null,2,null
+null,Other,null,CHF,null,Zuzwil,CH,BMW,2000,40500,kilometer,X5, 4.4i,true,car,null,11,null
+null,Green,null,CHF,null,Zuzwil,CH,Porsche,2007,34000,kilometer,911, Turbo,true,car,null,2,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,33400,kilometer,SL 55 AMG,,true,car,null,5,null
+null,Green,null,CHF,null,Zuzwil,CH,Alfa Romeo,1981,81900,kilometer,ALFASUD,Alfasud 1.5 ti,true,car,null,8,null
+null,Green,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1993,99500,kilometer,S 600,,true,car,null,4,null
+null,Green,null,CHF,null,Sursee,CH,Ferrari,1974,5000,kilometer,Dino, 246 GTS,true,car,null,3,null
+null,Green,null,CHF,null,Zuzwil,CH,Audi,1998,55000,kilometer,S8, 4.2 quattro,true,car,null,7,null
+null,Green,null,CHF,null,Zuzwil,CH,Chevrolet,2009,6300,kilometer,CORVETTE,Corvette ZR1,true,car,null,6,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,34000,kilometer,SL 500,,true,car,null,6,null
+null,Green,null,CHF,null,Zuzwil,CH,Renault,1977,91000,kilometer,Alpine A110,,true,car,null,7,null
+null,Green,null,CHF,null,Zuzwil,CH,BMW,2005,33600,kilometer,M5,,true,car,null,8,null
+null,Green,null,CHF,null,Zuzwil,CH,Saab,2003,138000,kilometer,9-3, 2.0i-16 T SE,true,car,null,5,null
+null,Orange,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1992,89100,kilometer,null,SL 60,true,car,null,12,null
+null,Red,null,CHF,null,Zuzwil,CH,Bentley,1990,60100,kilometer,TURBO,Turbo R,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,2008,9650,kilometer,911, Turbo,true,car,null,7,null
+null,Red,null,CHF,null,Zuzwil,CH,Maserati,2005,41800,kilometer,COUPÉ GT,Coupé GT,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,20900,kilometer,SL 600,,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,36800,kilometer,SL 55 AMG,,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,2008,112400,kilometer,RS6, Avant 5.0 V10 quattro 730PS,true,car,null,7,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,1990,148600,kilometer,944, S2 Cabriolet ABS,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Dodge,2001,18600,kilometer,VIPER, RT/10,true,car,null,12,null
+null,Red,null,CHF,null,Zuzwil,CH,Land Rover,2003,90400,kilometer,RANGE ROVER,Range Rover 4.4 V8 HSE,true,car,null,12,null
+null,Red,null,CHF,null,Zuzwil,CH,Ferrari,1998,67000,kilometer,F355, Spider,true,car,null,10,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2013,4900,kilometer,S 63 AMG,,true,car,null,10,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,1998,58200,kilometer,911, Carrera,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,2009,89000,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,BMW,1998,63000,kilometer,740,i,true,car,null,2,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,2003,79000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,1995,96000,kilometer,911, Carrera 4 Ruf Turbo BTR 2 420 PS,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Mitsubishi,1983,114800,kilometer,STARION,Starion 2000 Turbo,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,2004,14400,kilometer,911, Turbo Cabrio,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Chrysler,2007,47100,kilometer,300C, T 5.7 HEMI V8,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Volvo,2002,83000,kilometer,V70, 2.4T,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,VW,2008,84600,kilometer,PHAETON,Phaeton 3.0 TDi V6 4M,true,car,null,7,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1993,68900,kilometer,SL 600,,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,1998,73200,kilometer,BOXSTER,Boxster 2.5,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,36600,kilometer,CL 600,,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Rolls-Royce,1978,30900,kilometer,Silver Shadow, II,true,car,null,6,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,99999,kilometer,CL 600,,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Marcos,1968,85000,kilometer,null,1600 GT,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1993,117900,kilometer,SL 500,,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Renault,2000,99,kilometer,CLIO, Rennwagen,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lincoln,2003,130000,kilometer,Navigator, 32 V,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,Ferrari,2004,28000,kilometer,575M,,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2012,43000,kilometer,SL 65 AMG, BLACK SERIES,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,2002,29000,kilometer,911, Turbo,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,1999,69900,kilometer,A8, 4.2 quattro,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Ferrari,2006,4400,kilometer,F430,,true,car,null,3,null
+null,Red,null,CHF,null,Zuzwil,CH,Jaguar,2000,44200,kilometer,S-TYPE,S-Type 4.0 V8,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Porsche,2015,100,kilometer,911, Turbo S,true,car,null,1,null
+null,Red,null,CHF,null,Zuzwil,CH,Toyota,1977,78000,kilometer,null,1000 / Publica,true,car,null,5,null
+null,Red,null,CHF,null,Zuzwil,CH,Jaguar,2002,77600,kilometer,XK,R S/C Convertible,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,1998,196300,kilometer,A4, Avant 2.8 q.Ambition,true,car,null,4,null
+null,Red,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,33700,kilometer,E 50 AMG, Avantgarde,true,car,null,11,null
+null,Red,null,CHF,null,Zuzwil,CH,Audi,2002,71900,kilometer,RS6, Avant quattro,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,92300,kilometer,CLK 55 AMG, Avantgarde,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1979,36900,kilometer,ALPINE, 2700VA,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Alfa Romeo,1972,18400,kilometer,GTV, 2000 Bertone,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1991,55300,kilometer,SL 500,,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2011,19300,kilometer,GALLARDO,Gallardo LP570-4 Coupé SL,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,2005,132200,kilometer,IBIZA,Ibiza 1.9 TDI FR,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2010,37000,kilometer,R8, Spyder 5.2,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1991,156300,kilometer,500, SE,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Jeep,1995,133500,kilometer,Grand Cherokee, 5.2 Ltd.,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2013,15300,kilometer,M5,,true,car,null,9,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1967,47700,kilometer,null,SL 250 Pagode,true,car,null,1,null
+null,Black,null,CHF,null,Porrentruy,CH,Lamborghini,2011,7890,kilometer,MURCIÉLAGO,Murciélago LP640-4 Cpé,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2003,66800,kilometer,X5, 4.4i,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2001,49300,kilometer,S8, 4.2 quattro,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2001,65300,kilometer,330,Ci,true,car,null,5,null
+null,Black,null,CHF,null,Basel,CH,Rolls-Royce,1980,32000,kilometer,CORNICHE, II Coupé,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Land Rover,2006,49900,kilometer,RANGE ROVER SPORT,Range Rover Sport 4.2 V8 SC,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2011,69200,kilometer,CLS 63 AMG,,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1987,88000,kilometer,M3,,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,41100,kilometer,CL 600,,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Daimler,1998,100,kilometer,V8, 4.0,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1997,38000,kilometer,528,i Touring,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,1994,60000,kilometer,CONTINENTAL,Continental R Coupé,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lamborghini,2007,33000,kilometer,MURCIÉLAGO,Murciélago LP640-4 Cpé,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1992,129700,kilometer,SL 500,,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2006,117400,kilometer,RS4, Avant 4.2 V8 quattro,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2010,7400,kilometer,E 63 AMG,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1999,77800,kilometer,911, Carrera 4,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2001,50000,kilometer,RS4, Avant quattro,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1995,75200,kilometer,SL 600,,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1998,93000,kilometer,540,i,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Trabant,2009,999,kilometer,null,1300S Trabusa,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Jaguar,1974,49200,kilometer,E, -Type III,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2015,90,kilometer,AVENTADOR,Aventador LP700-4 Rds,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,121900,kilometer,S 55 AMG,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2000,3600,kilometer,X5, 4.4i,true,car,null,12,null
+null,Blue,null,CHF,null,Zuzwil,CH,Renault,1980,108000,kilometer,ALPINE,Alpine A310 V6,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2003,114000,kilometer,CAYENNE,Cayenne Turbo,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2003,94500,kilometer,760,i L,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2000,111600,kilometer,ARNAGE,Arnage Red Label,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,77700,kilometer,SL 600,,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2005,21700,kilometer,M5,,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Ford,1994,11000,kilometer,ESCORT,Escort 2.0i RS Cosworth,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2008,58900,kilometer,QUATTROPORTE,Quattroporte 4.2 Sport GT,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2009,34500,kilometer,E 63 AMG,,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,49000,kilometer,SL 55 AMG,,true,car,null,3,null
+null,Blue,null,CHF,null,Porrentruy,CH,Lamborghini,1993,49500,kilometer,DIABLO,Diablo 5.7,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Opel,2001,153900,kilometer,FRONTERA,Frontera 3.2i V6 Limited,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Aston Martin,2007,28800,kilometer,V8 Vantage, 4.3,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Alfa Romeo,1988,69300,kilometer,SPIDER,Spider 2.0,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Aston Martin,2006,92500,kilometer,V8 Vantage, 4.3,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,38700,kilometer,SLK 230, Kompressor,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Saab,2001,134600,kilometer,9-3, 2.0i-16 TS Aero,true,car,null,9,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,59300,kilometer,SL 55 AMG,,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,27800,kilometer,CL 500,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,VW,2002,50400,kilometer,PHAETON,Phaeton 6.0 W12 4Motion,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2000,20600,kilometer,DIABLO,Diablo 5.7,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2004,54100,kilometer,911, GT2,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,2002,61300,kilometer,911, GT2,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,1500,kilometer,S 500,,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,21300,kilometer,CLS 500,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2013,28100,kilometer,G 63 AMG,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,45600,kilometer,S 63 AMG, L,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2007,42000,kilometer,GALLARDO,Gallardo Superleggera,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2007,500,kilometer,R8, Coupé 4.2,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2011,20000,kilometer,CONTINENTAL,Continental Supersports Conv.,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2005,58300,kilometer,M6,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2000,228000,kilometer,323,Ci,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,66100,kilometer,CLS 500,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1995,56500,kilometer,SL 500,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2007,50900,kilometer,CONTINENTAL,Continental GTC 6.0,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2008,38500,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2001,79500,kilometer,330,Ci,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,MG,1986,2500,kilometer,METRO, 6R4 Gruppe B,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2007,48000,kilometer,M6,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2007,21500,kilometer,QUATTROPORTE,Quattroporte 4.2,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2007,62000,kilometer,730,d,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1973,85000,kilometer,Alpine A110, 1300,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1999,29800,kilometer,911, GT3,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,13900,kilometer,SL 600,,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Yes!,2007,9400,kilometer,null,Roadster 3.2,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1984,108500,kilometer,911, Carrera,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,1999,26200,kilometer,F360, Modena Berlinetta,true,car,null,10,null
+null,Black,null,CHF,null,Safenwil,CH,Aston Martin,1987,39000,kilometer,LAGONDA, Shooting Brake,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2001,20500,kilometer,SL 500,,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2002,91100,kilometer,RS6, Avant quattro,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2007,28000,kilometer,CONTINENTAL,Continental FlyingSpur6.0,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Rolls-Royce,1983,99300,kilometer,Silver Spirit, Mk. I,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,1999,19900,kilometer,A8, 3.7,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2013,34200,kilometer,RS4, Avant 4.2 FSI quattro,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Renault,1976,60000,kilometer,Alpine A110, 1600 SX,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,35800,kilometer,CL 63 AMG, FAB DESIGN,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2001,72600,kilometer,RS4, Avant quattro,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,31200,kilometer,SL 55 AMG,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2008,16500,kilometer,CAYENNE,Cayenne Turbo,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Toyota,1981,26900,kilometer,DYNA, Bergungsfahrzeug,true,car,null,1,null
+null,Black,null,CHF,null,St. Gallen,CH,Lamborghini,2014,1700,kilometer,GALLARDO,GallardoLP570-4CpéTecnica,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,VW,2008,108500,kilometer,TOUAREG,Touareg R50 V10,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2002,316200,kilometer,S3, quattro,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Chrysler,1996,20000,kilometer,VIPER,Viper RT/10,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1992,125600,kilometer,SL 500,,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Lotus,2001,75100,kilometer,ELISE,Elise,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2006,10600,kilometer,QUATTROPORTE,Quattroporte 4.2,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,51000,kilometer,SL 500, Edition,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,2007,26900,kilometer,COUPÉ,Coupé 2.7 24V FX,true,car,null,4,null
+null,Other,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,120900,kilometer,CLS 500,,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2005,15300,kilometer,SL 65 AMG,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2014,100,kilometer,911, GT3,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Nissan,2002,15000,kilometer,Skyline, Rennwagen,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2008,36900,kilometer,CONTINENTAL,Continental GT Speed 6.0,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,2003,23100,kilometer,575M,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,39900,kilometer,E 63 AMG, Avantgarde,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2005,142000,kilometer,CONTINENTAL,Continental GT 6.0,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2006,34650,kilometer,RS4, Cabriolet 4.2 quattro,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Alfa Romeo,1999,56400,kilometer,166, 3.0 V6 24V Super,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,1997,99400,kilometer,3 SERIES,B3 3.2 Coupé S.Tronic,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1978,222300,kilometer,ALPINE,Alpine A310 V6,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2003,85200,kilometer,911, Turbo,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1996,141000,kilometer,540,i,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,1996,52800,kilometer,456, GTA,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2003,13500,kilometer,MURCIÉLAGO,Murciélago 6.2 Coupé,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1973,40700,kilometer,Alpine A110, 1600 SC,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1997,112300,kilometer,523,i Touring,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2012,29600,kilometer,M6,,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2008,35500,kilometer,911, Turbo Cabrio,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Jaguar,2007,74000,kilometer,XJ,8 4.2 V8 Sovereign,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Dodge,2006,41000,kilometer,Ram, SRT-10,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2000,51800,kilometer,RS4, Avant quattro,true,car,null,11,null
+null,Black,null,CHF,null,Porrentruy,CH,Lamborghini,1999,45700,kilometer,DIABLO,Diablo 5.7 SV,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lamborghini,1993,26800,kilometer,DIABLO,Diablo 5.7,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,500,kilometer,null,CLK DTM AMG Cabriolet,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2009,9500,kilometer,MURCIÉLAGO,Murciélago LP670-4 SV Cpé,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,33613,kilometer,SL 65 AMG,,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2013,6000,kilometer,RS6, Avant 4.0 TFSI V8 qu,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Land Rover,1995,46500,kilometer,RANGE ROVER,Range Rover 4.6 HSE,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Bentley,2002,36000,kilometer,ARNAGE,Arnage T,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Fiat,1980,80000,kilometer,131, Racing / Sport,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2006,30600,kilometer,911, Carrera 4S Cabrio,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2001,16300,kilometer,911, GTR (GT3),true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,1996,78000,kilometer,911, Carrera Cabrio,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,2004,27650,kilometer,F360, Challenge stradale,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1982,64700,kilometer,323, E21,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Land Rover,1995,70400,kilometer,RANGE ROVER,Range Rover 4.6 HSE,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,123400,kilometer,SLK 32 AMG,,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,2012,19100,kilometer,5 SERIES,B5 BiTurbo 4.4 V8,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,1997,55000,kilometer,DIABLO,Diablo 5.7,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,Porsche,2010,26800,kilometer,PANAMERA,Panamera Turbo 4.8,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2002,21400,kilometer,RS6, Avant quattro,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2007,162000,kilometer,320,d Touring,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Renault,1983,111990,kilometer,ALPINE,Alpine A310 V6,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1998,30400,kilometer,SL 500,,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2000,77600,kilometer,911, Carrera,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2002,23800,kilometer,X5, 4.6is,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2013,4600,kilometer,M5,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2002,23200,kilometer,COUPÉ GT,Coupé GT,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2003,41100,kilometer,RS6, Avant quattro,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2010,110800,kilometer,S 350, L 4Matic,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Audi,2002,101900,kilometer,A4, Avant 3.0 V6,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,125000,kilometer,S 600, L,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1973,129800,kilometer,3.0, CSL,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,2005,36000,kilometer,612,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,49600,kilometer,G 55 AMG,,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,1966,18000,kilometer,null,CJ-5 12V ARMEEFAHRZEUG,true,car,null,9,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1993,37000,kilometer,SL 600,,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,39800,kilometer,SL 500,,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,47900,kilometer,SL 500,,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Lotus,2005,16000,kilometer,null,HKT Seven GTS,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,74500,kilometer,S 500, L,true,car,null,5,null
+null,Other,null,CHF,null,Zuzwil,CH,Aston Martin,2005,31800,kilometer,DB9, Volante,true,car,null,11,null
+null,Blue,null,CHF,null,Zuzwil,CH,Lancia,1995,68000,kilometer,DELTA, Integrale EVO,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2002,125900,kilometer,525,i,true,car,null,2,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2012,66800,kilometer,M6,,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,45000,kilometer,CLK 63 AMG, Black Series,true,car,null,6,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1993,128200,kilometer,911, Turbo ll 3.6,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,58000,kilometer,S 320,,true,car,null,8,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,1984,63500,kilometer,911, Turbo,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,2010,680,kilometer,458, Italia 4.5 V8,true,car,null,10,null
+null,Black,null,CHF,null,Zuzwil,CH,Rolls-Royce,1988,73800,kilometer,Silver Spur,,true,car,null,9,null
+null,Blue,null,CHF,null,Zuzwil,CH,NSU,1971,75000,kilometer,null,TTS,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Jaguar,2009,49500,kilometer,XK,R 5.0 V8 SC,true,car,null,3,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,2012,82000,kilometer,535,d xDrive,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Lamborghini,2016,2100,kilometer,HURACAN,Huracan LP610-4 Coupé,true,car,null,1,null
+null,Black,null,CHF,null,Zuzwil,CH,Ferrari,2004,113800,kilometer,612,,true,car,null,7,null
+null,Blue,null,CHF,null,Zuzwil,CH,Toyota,1976,38700,kilometer,CELICA, 2000GT,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Lancia,1993,131000,kilometer,DELTA,Delta HF Integrale Evo 4V,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Toyota,1979,240500,kilometer,LAND CRUISER, BJ 40 LT,true,car,null,7,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2006,38900,kilometer,COUPÉ GT,Coupé GT,true,car,null,9,null
+null,Black,null,CHF,null,Zuzwil,CH,Other,2006,100,kilometer,null,HPU Hurricane TC,true,car,null,4,null
+null,Black,null,CHF,null,Zuzwil,CH,Land Rover,1994,87000,kilometer,RANGE ROVER,Range Rover 4.6 HSE,true,car,null,11,null
+null,Black,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,43000,kilometer,CL 65 AMG,,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,BMW,1979,157400,kilometer,null,323 i E21,true,car,null,5,null
+null,Black,null,CHF,null,Zuzwil,CH,Maserati,2009,8700,kilometer,GRANTURISMO,GranTurismo,true,car,null,12,null
+null,Black,null,CHF,null,Zuzwil,CH,Porsche,2000,80000,kilometer,911, Turbo,true,car,null,10,null
+null,Black,null,CHF,null,Basel,CH,Rolls-Royce,1982,70000,kilometer,CORNICHE, Convertible,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,1999,35100,kilometer,911, Carrera 4,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Lancia,1994,130300,kilometer,DELTA,Delta HF Integrale Evo 4V,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Alfa Romeo,1972,79380,kilometer,GT, 1300 Junior,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2010,28900,kilometer,599, GTB HGTE,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1984,78000,kilometer,ALPINE,Alpine A310 V6 VFA-2700 VAA,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2004,147400,kilometer,E 55 AMG, Avantgarde,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,62500,kilometer,C 280, Elégance,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2003,144200,kilometer,RS6, Avant quattro,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,1998,57000,kilometer,S8, 4.2 quattro,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2008,26000,kilometer,599, GTB,true,car,null,4,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,2002,49600,kilometer,M3,,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2011,1350,kilometer,RS4, 4.2 V8 quattro,true,car,null,0,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2000,75400,kilometer,CL 600,,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,VW,2006,104500,kilometer,TOUAREG,Touareg 5.0 TDI V10,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1994,111500,kilometer,SL 500,,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Chevrolet,2009,4000,kilometer,CORVETTE,Corvette ZR1,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2003,55800,kilometer,F360, Spider,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Other,1985,61800,kilometer,CHARADE,Charade 1.0 Turbo,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2003,33600,kilometer,545,i,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,Maserati,2005,38400,kilometer,GRANSPORT,Coupé GranSport,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2008,24000,kilometer,SL 65 AMG,,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,NSU,1972,82804,kilometer,null,TT,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2010,29800,kilometer,E 250, CGI BlueEff Avgarde,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Citroen,2001,83800,kilometer,C5, 3.0 V6 Exclusive,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Bentley,2000,42300,kilometer,ARNAGE,Arnage Green Label,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2005,8500,kilometer,M6,,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2000,60500,kilometer,911, Turbo,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2005,22500,kilometer,575M,,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2009,52000,kilometer,S 500,,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,VW,2007,105800,kilometer,GOLF,Golf R32 4Motion,true,car,null,2,null
+null,Blue,null,CHF,null,Zuzwil,CH,Ford,1971,64600,kilometer,CAPRI, RS 2600,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,2000,8000,kilometer,SPORT SPIDER, Windschutzscheibe,true,car,null,9,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1981,147800,kilometer,R5, Alpine,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2006,72200,kilometer,CL 500, Prime Edition,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1999,68500,kilometer,M5,,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2003,48100,kilometer,S 600, L,true,car,null,1,null
+null,Blue,null,CHF,null,Zuzwil,CH,Jaguar,1999,69200,kilometer,S-TYPE,S-Type 4.0 V8,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Other,1985,157000,kilometer,5 SERIES, B7 (E28),true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Rolls-Royce,2001,38000,kilometer,CORNICHE,Corniche,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Nissan,2007,2300,kilometer,Skyline, R34 GTR,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,1990,125000,kilometer,QUATTRO,quattro Turbo 20V,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1992,71600,kilometer,ALPINE,Alpine A610 Turbo,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2012,5900,kilometer,R8, GT Spyder 5.2,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Maserati,1995,39500,kilometer,BITURBO,Biturbo Spyder E,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Citroen,1986,80500,kilometer,2CV,6 Charleston,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,McLaren,2012,19900,kilometer,12C,MP4- Coupé 3.8 V8,true,car,null,4,null
+null,Silver,null,CHF,null,Safenwil,CH,Triumph,1957,98320,kilometer,TR3,,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,48300,kilometer,CL 55 AMG,,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,69100,kilometer,S 320,,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Bentley,2012,29000,kilometer,CONTINENTAL,Continental FlyingSpur6.0,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2000,42500,kilometer,911, GT3,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Rolls-Royce,2002,42000,kilometer,CORNICHE,Corniche,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Aston Martin,2004,29000,kilometer,DB7, Vantage Volante,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,29800,kilometer,SL 500,,true,car,null,10,null
+null,Blue,null,CHF,null,Zuzwil,CH,Renault,2008,147900,kilometer,CLIO,Clio 2.0 16V Sport,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2009,160,kilometer,SLK 200, Kompressor,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2005,33600,kilometer,M5,,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,137000,kilometer,CL 600,,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Land Rover,1998,55800,kilometer,DISCOVERY,Discovery 3.9,true,car,null,7,null
+null,Blue,null,CHF,null,Sursee,CH,Chevrolet,1969,10000,kilometer,CAMARO,,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Fiat,2006,28800,kilometer,STILO,Stilo 1.8 16V Swiss,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1996,56100,kilometer,E 320, Elégance,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2002,23900,kilometer,M3,,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,Chevrolet,2008,33000,kilometer,CORVETTE,Corvette 6.2,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,Maserati,2002,53000,kilometer,COUPÉ GT,Coupé GT,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1996,69800,kilometer,328,i Coupé,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Chrysler,2000,66900,kilometer,VIPER,Viper GTS,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2000,127800,kilometer,911, Turbo,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ford,1986,1000,kilometer,null,RS200 EVO Gruppe B,true,car,null,8,null
+null,Blue,null,CHF,null,Zuzwil,CH,Audi,2003,26700,kilometer,A8, 4.2 quattro,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2005,14700,kilometer,X5, 4.4i,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2002,46900,kilometer,RS6, Avant quattro,true,car,null,10,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2007,100,kilometer,E 320, CDI Avantgarde,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,33000,kilometer,SL 500,,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2010,35500,kilometer,PANAMERA,Panamera 4S 4.8,true,car,null,5,null
+null,Blue,null,CHF,null,Zuzwil,CH,Jaguar,1997,161400,kilometer,XJ, 4.0 Sovereign,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2012,19000,kilometer,M5,,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1999,86300,kilometer,328,i,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2001,124800,kilometer,330,xi,true,car,null,11,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,2000,41900,kilometer,X5, 4.4i,true,car,null,11,null
+null,Blue,null,CHF,null,Zuzwil,CH,Maserati,2003,49300,kilometer,SPYDER GT,Spyder GT,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2006,12000,kilometer,CARRERA GT,Carrera GT,true,car,null,12,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2002,144100,kilometer,RS6, Avant quattro,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Nissan,1992,98000,kilometer,SUNNY,Sunny 2.0 16V GTI-R,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,1999,53600,kilometer,F355, Berlinetta,true,car,null,7,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,1995,127850,kilometer,911, Turbo,true,car,null,4,null
+null,Silver,null,CHF,null,Zuzwil,CH,Porsche,2001,26300,kilometer,911, Turbo,true,car,null,6,null
+null,Blue,null,CHF,null,Zuzwil,CH,Mercedes-Benz,1997,126000,kilometer,E 230, Elégance,true,car,null,5,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,19200,kilometer,SL 500,,true,car,null,3,null
+null,Blue,null,CHF,null,Zuzwil,CH,BMW,2000,62300,kilometer,M5,,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2002,48200,kilometer,SL 55 AMG,,true,car,null,3,null
+null,Silver,null,CHF,null,Zuzwil,CH,Renault,1984,172800,kilometer,R5, Alpine Turbo,true,car,null,8,null
+null,Silver,null,CHF,null,Zuzwil,CH,BMW,1974,578,kilometer,2002, Turbo,true,car,null,6,null
+null,Silver,null,CHF,null,Zuzwil,CH,Mercedes-Benz,2010,25300,kilometer,CLS 350, CGI,true,car,null,1,null
+null,Silver,null,CHF,null,Zuzwil,CH,Audi,2009,118800,kilometer,RS6, Avant 5.0 V10 quattro,true,car,null,2,null
+null,Silver,null,CHF,null,Zuzwil,CH,Ferrari,2004,42200,kilometer,612,,true,car,null,10,null
